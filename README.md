@@ -42,4 +42,4 @@ Repo: https://github.com/matt-hosseini-dev/i-read
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/mahdi--dev
+- LinkedIn: https://www.linkedin.com/in/matt--dev
