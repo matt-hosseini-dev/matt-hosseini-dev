@@ -40,14 +40,6 @@ Includes:
 
 Repo: https://github.com/matt-hosseini-dev/i-read
 
-## GitHub stats
-
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-hosseini-dev&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matt-hosseini-dev&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=matt-hosseini-dev&theme=github-dark)
-
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/mahdi--dev
