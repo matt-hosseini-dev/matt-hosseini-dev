@@ -1,4 +1,4 @@
-# Mahdi Hoseini
+# Matt Hosseini
 
 Senior Front-End Engineer focused on React, Next.js, TypeScript, and production-grade SaaS systems.
 
@@ -38,15 +38,15 @@ Includes:
 - Audio playback
 - PWA support
 
-Repo: https://github.com/s-mahdi/i-read
+Repo: https://github.com/matt-hosseini-dev/i-read
 
 ## GitHub stats
 
-![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-mahdi&show_icons=true&theme=github_dark)
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-hosseini-dev&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-mahdi&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matt-hosseini-dev&layout=compact&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=s-mahdi&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=matt-hosseini-dev&theme=github-dark)
 
 ## Connect
 
